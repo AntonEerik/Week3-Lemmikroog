@@ -1,0 +1,53 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills&display=swap');
+
+
+
+body{
+    background-image: url(https://img-global.cpcdn.com/recipes/a96cbdca9cec8c36/680x482cq70/easy-spaghetti-bolognese-recipe-main-photo.webp);
+}
+
+.ingredients{
+    background-color:#3e486ec3 ;
+    border: 4px solid rgb(0, 0, 0);
+    width:50%;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
+.heading{
+    font-family: 'Cursive', sans-serif;
+    font-size: 30px;
+
+}
+.ingredients-table{
+    font-size: 22px;
+    background-color:#3e486ec3 ;
+    border: 2px solid black;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+    width: 40%;
+}
+
+.instructions{
+
+    background-color:#3e486ec3 ;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 0.5%;
+    border: 4px solid black;
+    width: 49.6%;
+}
+
+.instructions ol{
+    background-color:#3e486ec3 ;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 0 auto;
+    width: 50%;
+    font-size: 22px;
+}
+
+.footer{
+    margin-top: 20%;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
